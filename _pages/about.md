@@ -7,8 +7,6 @@ redirect_from:
   - /about/
   - /about.html
 ---
-# About me
-
 I am a sophomore student from Shanghai Jiaotong University majoring in automation. I am also studying in the laboratory of Prof. Hesheng Wang currently.
 
 # News Update
