@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Baoquan Yang's Webpage"
+title                    : "Home"
 title_separator          : "-"
 name                     : &name "Baoquan Yang"
 description              : &description "Undergraduate @ Shanghai Jiao Tong University"
