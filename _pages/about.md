@@ -7,7 +7,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-I am a sophomore student from Shanghai Jiaotong University majoring in automation. I am also studying in the laboratory of Prof. Hesheng Wang currently.
+I am a sophomore student from Shanghai Jiaotong University majoring in automation. I am also studying in the laboratory of Prof. [Hesheng Wang](https://irmv.sjtu.edu.cn/wanghesheng) currently.
 
 # News Update
 
