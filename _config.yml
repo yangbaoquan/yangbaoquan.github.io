@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Baoquan's Web"
+title                    : "Baoquan's Website"
 title_separator          : "-"
 name                     : &name "Baoquan Yang 杨保权"
 description              : &description "Undergraduate @ Shanghai Jiao Tong University"
@@ -86,7 +86,7 @@ author:
   location         : "Shanghai, China"
   employer         :
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : #"http://yourfullgooglescholarurl.com"
+  googlescholar    : "https://scholar.google.com/citations?hl=zh-CN&user=lYGqGB8AAAAJ"
   email            : "yangbaoquan@sjtu.edu.cn"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
