@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Baoquan Yang's Webpage"
 title_separator          : "-"
 name                     : &name "Baoquan Yang"
-description              : &description "Undergraduate at Shanghai Jiao Tong University"
+description              : &description "Undergraduate @ Shanghai Jiao Tong University"
 url                      : https://yangbaoquan.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "yangbaoquan/yangbaoquan.github.io"
@@ -309,3 +309,4 @@ compress_html:
   clippings: all
   ignore:
     envs: development
+
